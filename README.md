@@ -41,6 +41,7 @@ Compétences visées : Python, SQL, PostgreSQL, Docker, Airflow, Spark, dbt, Kaf
 |--------|-------------|--------|
 | [bibliotheque-personnelle](https://github.com/ousmajalloh405-eng/bibliotheque-personnelle) | Application CLI Python (POO + JSON + tests) | 🟢 Réalisé |
 | [aventure-sql-bibliotheque](https://github.com/ousmajalloh405-eng/aventure-sql-bibliotheque) | Base SQL relationnelle (schéma, vues, requêtes, index) | 🟢 Réalisé |
+| [meteo-tourisme](https://github.com/ousmajalloh405-eng/meteo-tourisme) | Pipeline ETL météo (API + SQLite) | 🟢 Réalisé |
 | [MBEUD-mi](https://github.com/ousmajalloh405-eng/MBEUD-mi) | Prototype géospatial — risque d’inondation à Dakar | 🟡 En cours |
 
 ## Portfolio par catégories
@@ -50,7 +51,7 @@ Compétences visées : Python, SQL, PostgreSQL, Docker, Airflow, Spark, dbt, Kaf
 - [aventure-sql-bibliotheque](https://github.com/ousmajalloh405-eng/aventure-sql-bibliotheque) — Base SQL relationnelle (schéma, vues, index) 🟢
 
 ### 📥 Catégorie 1 — Système de collecte et de stockage
-⚪ À venir (API météo, scraping…)
+- [meteo-tourisme](https://github.com/ousmajalloh405-eng/meteo-tourisme) — Pipeline ETL météo via API Open-Meteo + SQLite 🟢
 
 ### ⚙️ Catégorie 2 — Création de pipelines ETL
 ⚪ À venir
