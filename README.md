@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner-ousmane.jpg" alt="Ousmane Diallo - Data Engineer" width="100%">
+<img src="FylKp.jpg" alt="Ousmane Diallo - Data Engineer" width="100%">
 
 # Ousmane Diallo
 ### Data Engineer en formation | Sonatel Academy / Orange Digital Center
