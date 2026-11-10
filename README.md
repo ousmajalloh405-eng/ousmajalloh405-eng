@@ -30,7 +30,7 @@ Compétences visées : Python, SQL, PostgreSQL, Docker, Airflow, Spark, dbt, Kaf
 | Domaine | Technologies |
 |---------|--------------|
 | Langages | Python, SQL |
-| Bases de données | PostgreSQL, MongoDB, Redis |
+| Bases de données | PostgreSQL, MongoDB, Redis, SQLite |
 | Data Engineering | ETL/ELT, Airflow, Spark, dbt, Kafka |
 | DevOps & Cloud | Docker, Git, AWS |
 | Autres | Modélisation de données, tests, documentation |
@@ -40,12 +40,14 @@ Compétences visées : Python, SQL, PostgreSQL, Docker, Airflow, Spark, dbt, Kaf
 | Projet | Description | Statut |
 |--------|-------------|--------|
 | [bibliotheque-personnelle](https://github.com/ousmajalloh405-eng/bibliotheque-personnelle) | Application CLI Python (POO + JSON + tests) | 🟢 Réalisé |
+| [aventure-sql-bibliotheque](https://github.com/ousmajalloh405-eng/aventure-sql-bibliotheque) | Base SQL relationnelle (schéma, vues, requêtes, index) | 🟢 Réalisé |
 | [MBEUD-mi](https://github.com/ousmajalloh405-eng/MBEUD-mi) | Prototype géospatial — risque d’inondation à Dakar | 🟡 En cours |
 
 ## Portfolio par catégories
 
 ### 🐍 Catégorie 0 — Aventure en programmation
 - [bibliotheque-personnelle](https://github.com/ousmajalloh405-eng/bibliotheque-personnelle) — Gestion de bibliothèque (POO, JSON, tests) 🟢
+- [aventure-sql-bibliotheque](https://github.com/ousmajalloh405-eng/aventure-sql-bibliotheque) — Base SQL relationnelle (schéma, vues, index) 🟢
 
 ### 📥 Catégorie 1 — Système de collecte et de stockage
 ⚪ À venir (API météo, scraping…)
