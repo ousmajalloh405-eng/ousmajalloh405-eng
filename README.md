@@ -46,6 +46,7 @@ Compétences visées : Python, SQL, PostgreSQL, Docker, Airflow, Spark, dbt, Kaf
 | [pipeline-financier](https://github.com/ousmajalloh405-eng/pipeline-financier) | Pipeline financier Yahoo Finance (indicateurs) | 🟢 Réalisé |
 | [analyse-cricket](https://github.com/ousmajalloh405-eng/analyse-cricket) | Analyse performances cricket (ETL + indicateurs) | 🟢 Réalisé |
 | [web-scraping](https://github.com/ousmajalloh405-eng/web-scraping) | Web scraping citations (BeautifulSoup + SQLite) | 🟢 Réalisé |
+| [qualite-donnees](https://github.com/ousmajalloh405-eng/qualite-donnees) | Pipeline qualité des données (validation + nettoyage) | 🟢 Réalisé |
 | [MBEUD-mi](https://github.com/ousmajalloh405-eng/MBEUD-mi) | Prototype géospatial — risque d’inondation à Dakar | 🟡 En cours |
 
 ## Portfolio par catégories
@@ -70,7 +71,7 @@ Compétences visées : Python, SQL, PostgreSQL, Docker, Airflow, Spark, dbt, Kaf
 ⚪ À venir
 
 ### 🛡️ Catégorie 5 — Qualité des données
-⚪ À venir
+- [qualite-donnees](https://github.com/ousmajalloh405-eng/qualite-donnees) — Validation de règles métier et nettoyage 🟢
 
 ### ☁️ Catégorie 6 — Cloud Computing et orchestration
 ⚪ À venir
