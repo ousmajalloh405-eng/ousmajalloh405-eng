@@ -45,6 +45,7 @@ Compétences visées : Python, SQL, PostgreSQL, Docker, Airflow, Spark, dbt, Kaf
 | [etl-ventes-marketing](https://github.com/ousmajalloh405-eng/etl-ventes-marketing) | Pipeline ETL ventes (génération, nettoyage, indicateurs) | 🟢 Réalisé |
 | [pipeline-financier](https://github.com/ousmajalloh405-eng/pipeline-financier) | Pipeline financier Yahoo Finance (indicateurs) | 🟢 Réalisé |
 | [analyse-cricket](https://github.com/ousmajalloh405-eng/analyse-cricket) | Analyse performances cricket (ETL + indicateurs) | 🟢 Réalisé |
+| [web-scraping](https://github.com/ousmajalloh405-eng/web-scraping) | Web scraping citations (BeautifulSoup + SQLite) | 🟢 Réalisé |
 | [MBEUD-mi](https://github.com/ousmajalloh405-eng/MBEUD-mi) | Prototype géospatial — risque d’inondation à Dakar | 🟡 En cours |
 
 ## Portfolio par catégories
@@ -55,6 +56,7 @@ Compétences visées : Python, SQL, PostgreSQL, Docker, Airflow, Spark, dbt, Kaf
 
 ### 📥 Catégorie 1 — Système de collecte et de stockage
 - [meteo-tourisme](https://github.com/ousmajalloh405-eng/meteo-tourisme) — Pipeline ETL météo via API Open-Meteo + SQLite 🟢
+- [web-scraping](https://github.com/ousmajalloh405-eng/web-scraping) — Web scraping citations (BeautifulSoup) 🟢
 
 ### ⚙️ Catégorie 2 — Création de pipelines ETL
 - [etl-ventes-marketing](https://github.com/ousmajalloh405-eng/etl-ventes-marketing) — Pipeline ETL ventes & marketing 🟢
