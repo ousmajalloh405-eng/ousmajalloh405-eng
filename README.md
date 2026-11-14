@@ -43,6 +43,7 @@ Compétences visées : Python, SQL, PostgreSQL, Docker, Airflow, Spark, dbt, Kaf
 | [aventure-sql-bibliotheque](https://github.com/ousmajalloh405-eng/aventure-sql-bibliotheque) | Base SQL relationnelle (schéma, vues, requêtes, index) | 🟢 Réalisé |
 | [meteo-tourisme](https://github.com/ousmajalloh405-eng/meteo-tourisme) | Pipeline ETL météo (API + SQLite) | 🟢 Réalisé |
 | [etl-ventes-marketing](https://github.com/ousmajalloh405-eng/etl-ventes-marketing) | Pipeline ETL ventes (génération, nettoyage, indicateurs) | 🟢 Réalisé |
+| [pipeline-financier](https://github.com/ousmajalloh405-eng/pipeline-financier) | Pipeline financier Yahoo Finance (indicateurs) | 🟢 Réalisé |
 | [MBEUD-mi](https://github.com/ousmajalloh405-eng/MBEUD-mi) | Prototype géospatial — risque d’inondation à Dakar | 🟡 En cours |
 
 ## Portfolio par catégories
@@ -55,7 +56,8 @@ Compétences visées : Python, SQL, PostgreSQL, Docker, Airflow, Spark, dbt, Kaf
 - [meteo-tourisme](https://github.com/ousmajalloh405-eng/meteo-tourisme) — Pipeline ETL météo via API Open-Meteo + SQLite 🟢
 
 ### ⚙️ Catégorie 2 — Création de pipelines ETL
-- [etl-ventes-marketing](https://github.com/ousmajalloh405-eng/etl-ventes-marketing) — Pipeline ETL ventes & marketing (génération, nettoyage, indicateurs) 🟢
+- [etl-ventes-marketing](https://github.com/ousmajalloh405-eng/etl-ventes-marketing) — Pipeline ETL ventes & marketing 🟢
+- [pipeline-financier](https://github.com/ousmajalloh405-eng/pipeline-financier) — Pipeline financier Yahoo Finance 🟢
 
 ### ⚡ Catégorie 3 — Traitement en temps réel
 ⚪ À venir
