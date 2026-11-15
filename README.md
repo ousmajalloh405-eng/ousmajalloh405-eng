@@ -49,6 +49,7 @@ Compétences visées : Python, SQL, PostgreSQL, Docker, Airflow, Spark, dbt, Kaf
 | [qualite-donnees](https://github.com/ousmajalloh405-eng/qualite-donnees) | Pipeline qualité des données (validation + nettoyage) | 🟢 Réalisé |
 | [data-warehouse](https://github.com/ousmajalloh405-eng/data-warehouse) | Mini Data Warehouse (schéma en étoile) | 🟢 Réalisé |
 | [orchestration](https://github.com/ousmajalloh405-eng/orchestration) | Orchestrateur de pipeline ETL avec journalisation | 🟢 Réalisé |
+| [temps-reel](https://github.com/ousmajalloh405-eng/temps-reel) | Simulation traitement temps réel (streaming) | 🟢 Réalisé |
 | [MBEUD-mi](https://github.com/ousmajalloh405-eng/MBEUD-mi) | Prototype géospatial — risque d’inondation à Dakar | 🟡 En cours |
 
 ## Portfolio par catégories
@@ -67,7 +68,7 @@ Compétences visées : Python, SQL, PostgreSQL, Docker, Airflow, Spark, dbt, Kaf
 - [analyse-cricket](https://github.com/ousmajalloh405-eng/analyse-cricket) — Analyse performances cricket 🟢
 
 ### ⚡ Catégorie 3 — Traitement en temps réel
-⚪ À venir
+- [temps-reel](https://github.com/ousmajalloh405-eng/temps-reel) — Simulation de flux d’événements + agrégation continue 🟢
 
 ### 🗄️ Catégorie 4 — Solutions d’entrepôt de données
 - [data-warehouse](https://github.com/ousmajalloh405-eng/data-warehouse) — Mini Data Warehouse (schéma en étoile) 🟢
